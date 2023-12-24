@@ -1,2 +1,3 @@
 # first-demo
-This is my Git repository
+This is my first Git repository
+Author- Sandip the man
